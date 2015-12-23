@@ -58,7 +58,7 @@ Encode::JP::Mobile::UnicodeEmoji - Unicode Emoji mapping for Encode::JP::Mobile
 =head1 DESCRIPTION
 
 Encode::JP::Mobile::UnicodeEmoji is encoding module for Unicode Emoji to
-Enocde::JP::Mobile's Emoji mapping.
+Encode::JP::Mobile's Emoji mapping.
 
 =head1 AUTHOR
 
